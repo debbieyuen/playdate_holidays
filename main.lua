@@ -1,0 +1,4 @@
+
+function playdate.update()
+
+end
